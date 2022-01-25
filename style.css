@@ -1,0 +1,22 @@
+body {
+    font-family: "Roboto"; 
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.hero {
+    background-color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.footer {
+    background-color: #1F2937;
+}
