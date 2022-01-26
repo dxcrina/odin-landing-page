@@ -13,6 +13,9 @@ body {
     background-color: #1F2937;
 }
 
+.info{
+    display: flex;
+}
 .quote {
     background-color: #E5E7EB;
 }
